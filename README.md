@@ -14,4 +14,4 @@ And then to run the project with `qemu`:
 make run
 ```
 ## Inspiration
-The project was heavily inspired by [zenoamaro's bootloader pong]([https://www.google.com](https://github.com/zenoamaro/bootloader-pong)).
+The project was heavily inspired by [zenoamaro's bootloader pong](https://github.com/zenoamaro/bootloader-pong).
